@@ -1,40 +1,37 @@
 # Hi, I'm Sajjad Teymoori 👋
 
-I'm a Computer Engineering undergraduate at K. N. Toosi University of Technology, currently focused on Machine Learning, AI Agents, and software engineering.
+I'm a Computer Engineering undergraduate at **K. N. Toosi University of Technology**, interested in **Machine Learning**, **AI Agents**, and **software engineering**.
+
+Currently, I'm building my AI/ML portfolio while strengthening my foundations in algorithms, data structures, and practical machine learning.
 
 ## About Me
 
-- Computer Engineering student with a CGPA of 19.06 / 20
-- Interested in Machine Learning, AI Agents, and AI-powered software systems
-- Experienced in Java, Python, Git, and software engineering fundamentals
-- Currently building an AI/ML-focused GitHub portfolio for internship opportunities
-
-## Currently Learning
-
-- Machine Learning model evaluation and practical workflows
-- AI Agents and prompt engineering
-- Python for data science
-- Backend development and clean software design
+- 🎓 B.Sc. Computer Engineering student at K. N. Toosi University of Technology
+- 📊 CGPA: 19.06 / 20
+- 🤖 Interested in Machine Learning, AI Agents, and AI-powered software systems
+- 💻 Experienced with Java, Python, Git, and object-oriented programming
+- 📚 Currently learning more about practical ML workflows and AI agents
 
 ## Featured Projects
 
 ### Machine Learning Foundations
-
-Completed university ML coursework covering regression, classification, regularization, optimization, and model evaluation.
+Completed university ML coursework with implementations and experiments in regression, classification, regularization, optimization, and model evaluation.
 
 ### E-Commerce System Implementation
-
-A Java-based multi-role e-commerce system built with object-oriented programming, clean code practices, and unit testing.
+A Java-based e-commerce system focused on object-oriented design, clean code, multi-role business logic, and unit testing.
 
 ## Tech Stack
 
-Python, Java, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, Git, GitHub, JUnit
+**Languages:** Python, Java, SQL  
+**ML/Data:** NumPy, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook  
+**Software Engineering:** Git, GitHub, OOP, Clean Code, JUnit  
 
-## Education
+## Currently Exploring
 
-B.Sc. in Computer Engineering  
-K. N. Toosi University of Technology  
-CGPA: 19.06 / 20
+- Machine Learning model evaluation
+- AI Agents and prompt engineering
+- Data preprocessing and feature engineering
+- Backend development and AI integration
 
 ## Contact
 
