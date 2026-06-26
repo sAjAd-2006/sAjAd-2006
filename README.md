@@ -14,12 +14,14 @@ Currently, I'm building my AI/ML portfolio while strengthening my foundations in
 
 ## Featured Projects
 
-### Machine Learning Foundations
+### [Machine Learning Foundations](https://github.com/sAjAd-2006/machine-learning-foundations)
 Completed university ML coursework with implementations and experiments in regression, classification, regularization, optimization, and model evaluation.
 
-### E-Commerce System Implementation
-A Java-based e-commerce system focused on object-oriented design, clean code, multi-role business logic, and unit testing.
+### [Customer Churn Prediction](https://github.com/sAjAd-2006/customer-churn-prediction)
+An end-to-end machine learning project for predicting customer churn using synthetic structured data, preprocessing pipelines, Logistic Regression, Random Forest, and classification metrics.
 
+### [E-Commerce System Implementation](https://github.com/sAjAd-2006/E-Commerce-System-Implementation)
+A Java-based e-commerce system focused on object-oriented design, clean code, multi-role business logic, and unit testing.
 ## Tech Stack
 
 **Languages:** Python, Java, SQL  
